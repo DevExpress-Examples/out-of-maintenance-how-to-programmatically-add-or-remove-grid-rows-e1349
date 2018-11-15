@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Window1.xaml](./CS/AddDeleteRow/Window1.xaml) (VB: [Window1.xaml](./VB/AddDeleteRow/Window1.xaml))
+* [Window1.xaml.cs](./CS/AddDeleteRow/Window1.xaml.cs) (VB: [Window1.xaml](./VB/AddDeleteRow/Window1.xaml))
+<!-- default file list end -->
 # How to programmatically add or remove grid rows
 
 
